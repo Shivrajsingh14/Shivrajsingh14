@@ -118,9 +118,6 @@
 ### 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivrajsingh14&theme=tokyonight" alt="GitHub Streak" />
 
-### 📊 Contribution Graph
-[![Shivraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivrajsingh14&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
@@ -152,9 +149,6 @@ If you like my projects, consider giving them a ⭐ on GitHub!
 
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/Shivrajsingh14/Shivrajsingh14/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
