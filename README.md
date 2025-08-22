@@ -22,7 +22,7 @@
 
 🎓 **B.Tech CSE Student** at Lovely Professional University
 
-🔭 **Currently Building:** [Code-Connect0](https://github.com/Shivrajsingh14) – A real-time code collaboration platform with AI features
+🔭 **Currently Building:** [Code-Connecto](https://codeconnecto.com/) – A real-time code collaboration platform with AI features
 
 🌱 **Currently Learning:** React.js, Three.js, Advanced AI/ML
 
@@ -42,9 +42,9 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |------------|----------------|----------------|----------|
-| **Craft-My-CV** | 🏆 AI-powered resume optimizer (Top 5 @ Build-a-thon 2.0) | React, Node.js, AI/ML | [🔗 Demo](https://github.com/Shivrajsingh14) |
-| **Code-Connect0** | Real-time code collaboration platform with AI features | MERN, Socket.io, AI | [🔗 Repo](https://github.com/Shivrajsingh14) |
-| **Car Rental System** | Full-stack booking & admin management system | MERN, Redux, MongoDB | [🔗 Live](https://github.com/Shivrajsingh14) |
+| **Craft-My-CV** | 🏆 AI-powered resume optimizer (Top 5 @ Build-a-thon 2.0) | React, Node.js, AI/ML | [🔗 Demo](https://craftmyycv.streamlit.app/) |
+| **Code-Connect0** | Real-time code collaboration platform with AI features | MERN, Socket.io, AI | [🔗 Live](https://codeconnecto.com/) |
+| **Car Rental System** | Full-stack booking & admin management system | MERN, Redux, MongoDB | [🔗 Live demo](https://carwallah.netlify.app/) |
 
 </div>
 
