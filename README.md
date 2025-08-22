@@ -27,7 +27,7 @@
 <a href="https://craftmyycv.streamlit.app/">🔗 Live Demo</a>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" height="60"/>
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%20Jul%203%2C%202025%2C%2012_12_49%20PM-BeZaj6QlA1ehDpvJ7g7Ix75qeJ9WEi.png" width="60" height="60"/>
 <h3>💻 Code-Connecto</h3>
 <p><strong>Real-time collaboration platform</strong><br/>
 🤝 AI-powered code sharing</p>
