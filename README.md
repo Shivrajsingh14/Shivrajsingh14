@@ -19,22 +19,30 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100"/>
 <h3>🏆 Craft-My-CV</h3>
 <p><strong>AI-powered resume optimizer</strong><br/>
 🥇 Top 5 @ Build-a-thon 2.0</p>
-<p><code>React</code> <code>Node.js</code> <code>AI/ML</code></p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 <a href="https://craftmyycv.streamlit.app/">**🔗 Live Demo**</a>
 </td>
 <td align="center" width="50%">
-<img src="/images/chatgpt-20image-20jul-203-2c-202025-2c-2012-12-49-20pm.png" width="80" height="80"/>
+<img src="/images/chatgpt-20image-20jul-203-2c-202025-2c-2012-12-49-20pm.png" width="100" height="100"/>
 <h3>💻 Code-Connecto</h3>
 <p><strong>Real-time collaboration platform</strong><br/>
 🤝 AI-powered code sharing</p>
-<p><code>MERN</code> <code>Socket.io</code> <code>AI</code></p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
 <a href="https://codeconnecto.com/">**🔗 Live Site**</a>
 </td>
-<!-- Removed Car Rental project as requested to focus on high-impact projects -->
 </tr>
 </table>
 
@@ -71,7 +79,9 @@
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,6 +89,7 @@
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -107,8 +118,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
 <h3>📜 Certifications</h3>
 <ul align="left">
-<!-- Added IBM DevOps and Software Engineering Certificate -->
-<li>🚀 **IBM DevOps and Software Engineering** - Coursera</li>
+<li>🚀 **IBM DevOps and Software Engineering** - Professional Certificate</li>
 <li>✅ **Mastering DSA** - Udemy</li>
 <li>✅ **Apna College DSA with Java**</li>
 <li>✅ **NPTEL IoT** - IIT Kharagpur</li>
@@ -140,7 +150,7 @@
 </table>
 
 ### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivrajsingh14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivrajsingh14&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
