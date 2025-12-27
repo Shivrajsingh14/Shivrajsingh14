@@ -120,20 +120,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivrajsingh14&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivrajsingh14&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivrajsingh14&theme=tokyonight)
-
-</p>
 
 
 </div>
