@@ -34,14 +34,6 @@
 <p><code>MERN</code> <code>Socket.io</code> <code>AI</code></p>
 <a href="https://codeconnecto.com/">🔗 Live Site</a>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" height="60"/>
-<h3>🚗 Car Rental System</h3>
-<p><strong>Full-stack booking system</strong><br/>
-📱 Admin & user management</p>
-<p><code>MERN</code> <code>Redux</code> <code>MongoDB</code></p>
-<a href="https://carwallah.netlify.app/">🔗 Live Demo</a>
-</td>
 </tr>
 </table>
 
@@ -114,6 +106,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
 <h3>📜 Certifications</h3>
 <ul align="left">
+<li>✅ <strong>IBM Devops Certificate</strong></li>
 <li>✅ <strong>Mastering DSA</strong> - Udemy</li>
 <li>✅ <strong>Apna College DSA with Java</strong></li>
 <li>✅ <strong>NPTEL IoT</strong> - IIT Kharagpur</li>
@@ -132,18 +125,19 @@
 <div align="center">
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivrajsingh14&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shivrajsingh14&show_icons=true&theme=tokyonight&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivrajsingh14&layout=compact&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
-<table>
-<tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivrajsingh14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivrajsingh14&layout=compact&langs_count=8&theme=tokyonight"/>
-</td>
-</tr>
-</table>
 
 ### 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivrajsingh14&theme=tokyonight" alt="GitHub Streak" />
