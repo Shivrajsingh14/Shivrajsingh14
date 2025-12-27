@@ -120,9 +120,24 @@
 
 ---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivrajsingh14&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivrajsingh14&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivrajsingh14&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivrajsingh14&theme=tokyonight&margin-w=10" />
+</p>
+
 
 ---
 
